@@ -26,11 +26,11 @@ header img{
     text-align: center;
 }
 
-section{
+.cabecalho{
     padding: 10px;
 }
 
-section p{
+.cabecalho p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 13px;
     font-style: italic;
@@ -40,7 +40,7 @@ section p{
     padding-bottom: 10px;
 }
 
-section a{
+.cabecalho a{
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
     color: #000;
@@ -121,4 +121,8 @@ main img{
 
 .menu-social i:hover{
     color: #000;
+}
+
+.video-card{
+    font-family: 'Luto', Arial, Helvetica, sans-serif;
 }
