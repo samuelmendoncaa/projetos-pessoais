@@ -65,14 +65,10 @@ main >p{
     margin: 40px;
 }
 
-aside{
-    margin: 40px;
-}
-
 main img{
     float: left;
     padding: 30px;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 100px;
 }
 
@@ -81,4 +77,10 @@ main >aside{
     padding: 10px;
 }
 
+aside{
+    margin: 40px;
+}
 
+aside >p{
+    margin-bottom: 20px;
+}
