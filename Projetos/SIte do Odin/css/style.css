@@ -67,9 +67,9 @@ main >p{
 
 main img{
     float: left;
-    padding: 30px;
-    margin-top: 50px;
-    margin-bottom: 100px;
+    padding: 40px;
+    margin-top: -42px;
+    margin-bottom: -3px;
 }
 
 
@@ -83,6 +83,10 @@ aside{
 
 aside >p{
     margin-bottom: 20px;
+}
+
+h4 {
+    padding: 37px;
 }
 
 button{
